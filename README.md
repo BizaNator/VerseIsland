@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="docs/images/banner.png" alt="VerseIsland" width="100%">
+
 Public code, tutorials, and agent tooling for **learning UEFN Verse** — Unreal Editor for Fortnite's programming language — from the island. 🌴
 
 [![VerseIsland.com](https://img.shields.io/badge/VerseIsland.com-Learn%20Verse-2ea44f)](https://verseisland.com)
